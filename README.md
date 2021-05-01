@@ -1,1 +1,1 @@
-# snake
+# Snake for 2 players Competition BY AI Python Course
